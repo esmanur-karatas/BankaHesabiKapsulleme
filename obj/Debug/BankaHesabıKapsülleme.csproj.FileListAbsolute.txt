@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\uygulamasolution\BankaHesabıKapsülleme\bin\Debug\BankaHesabıKapsülleme.exe.config
+C:\Users\DELL\Desktop\C#\uygulamasolution\BankaHesabıKapsülleme\bin\Debug\BankaHesabıKapsülleme.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\BankaHesabıKapsülleme\bin\Debug\BankaHesabıKapsülleme.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\BankaHesabıKapsülleme\obj\Debug\BankaHesabıKapsülleme.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\BankaHesabıKapsülleme\obj\Debug\BankaHesabıKapsülleme.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\BankaHesabıKapsülleme\obj\Debug\BankaHesabıKapsülleme.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\BankaHesabıKapsülleme\obj\Debug\BankaHesabıKapsülleme.pdb
