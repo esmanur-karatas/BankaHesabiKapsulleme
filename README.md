@@ -1,9 +1,45 @@
-Yapmak İstediklerim.
+# Banka Hesabı Uygulaması
 
--Console çalıştığında önce kullanıcıdan kullanıcı adı ve kullanıcı şifresi belirlemesini istiyorum.
+Bu C# uygulaması, kullanıcının banka hesabını yönetmesine olanak tanır. Kullanıcı giriş bilgilerini belirleyebilir, hesabına erişebilir ve belirli işlemleri gerçekleştirebilir.
 
--Ardından bunları kaydedip giriş yapmasını istiyorum. Kullanıcının en fazla 3 tane yanlış şifre girme hakkı var ve her yanlış şifre kullanıcı adı girdiğinde kalan hakkını ekranda gösteriyor. Hakkı bitince de ekrana "hesabınız bloke edildi. Lütfen bankayla iletişime geçiniz" yazdırıyoruz. (yaptım).
+## Kullanıcı Girişi
 
--Giriş yaptıktan sonra yapacağı işlemi seçecek para yatırma, para çekme, bakiye sorgulama gibi.
+- Kullanıcı, programın başında kullanıcı adı ve şifre belirler.
+- Kullanıcı, en fazla 3 hatalı giriş hakkına sahiptir.
+- Hatalı giriş durumunda kalan giriş hakkı ekranda gösterilir.
+- Giriş hakkı tükendiğinde hesap bloke edilir.
 
--Sonra seçtiği işleme göre işlem yapacak.
+## İşlem Seçimi
+
+- Giriş yaptıktan sonra kullanıcı yapmak istediği işlemi seçebilir.
+- Desteklenen işlemler: Bakiye sorgulama, para yatırma, para çekme, çıkış.
+- Para çekme işlemi için yeterli bakiye kontrolü yapılır.
+- Çıkış işlemi, programı sonlandırır.
+
+## Nasıl Kullanılır
+
+1. Uygulamayı çalıştırın.
+2. İlk girişte kullanıcı adı ve şifre belirleyin.
+3. Ardından kullanıcı adı ve şifre ile giriş yapın.
+4. İstenilen işlemi seçin.
+5. İşlem sonlandığında yeni işlem seçebilirsiniz veya çıkış yapabilirsiniz.
+
+## Örnek Görüntüler
+
+Giriş ve işlem seçimi aşamalarının örnek görüntüleri:
+
+### Kullanıcı Girişi
+
+
+
+### İşlem Seçimi
+
+![İşlem Seçimi](screenshots/islem.png)
+
+## Geliştirici
+
+Bu program, C# dilinde basit bir banka hesabı yönetimi uygulamasını göstermek için yazılmıştır. Kendi ihtiyaçlarınıza göre geliştirebilirsiniz.
+
+---
+
+© 2023 Your Name
