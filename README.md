@@ -37,4 +37,5 @@ Bu program, C# dilinde basit bir banka hesabı yönetimi uygulamasını gösterm
 
 ---
 
-© 2023 Your Name
+© 2023 Esmanur Karataş
+
