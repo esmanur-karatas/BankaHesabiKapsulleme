@@ -28,13 +28,8 @@ Bu C# uygulaması, kullanıcının banka hesabını yönetmesine olanak tanır. 
 
 Giriş ve işlem seçimi aşamalarının örnek görüntüleri:
 
-### Kullanıcı Girişi
+<img width="580" alt="image" src="https://github.com/esmanur-karatas/BankaHesabiKapsulleme/assets/83882274/1e34f465-1596-423f-8f63-0fdacae14316">
 
-
-
-### İşlem Seçimi
-
-![İşlem Seçimi](screenshots/islem.png)
 
 ## Geliştirici
 
